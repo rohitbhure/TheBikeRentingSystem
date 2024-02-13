@@ -65,7 +65,7 @@ function BookingBike({ match }) {
 
   return (
     <DefaultLayout>
-      {loading && <Spinner />}
+      {loading  && <Spinner />}
       <Row
         justify="center"
         className="d-flex align-items-center bg-gray"
