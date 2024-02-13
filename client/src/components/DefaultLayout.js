@@ -77,7 +77,7 @@ function DefaultLayout(props) {
         {/* <hr style={{ backgroundColor: "#f1c40f", height: "1px" }} />
 
         <p>
-          Made with ❤️ by Reeetesh{"   "}
+          Made with ❤️ by Rohit{"   "}
           <i class="fa-solid fa-user-astronaut" style={{ color: "tomato" }}></i>
         </p>
         <p></p> */}

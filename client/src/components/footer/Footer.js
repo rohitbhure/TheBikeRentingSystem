@@ -15,7 +15,7 @@ function Footer() {
                 alt="mail"
               ></img>
             </div>
-            <div>support@brs.com</div>
+            <div>support@rohitteam.com</div>
           </div>
           <div className={styles.Footer__flex}>
             <div>
@@ -24,7 +24,7 @@ function Footer() {
                 alt="mail"
               ></img>
             </div>
-            <div>+918103114690</div>
+            <div>+919179105839</div>
           </div>
         </div>
         <div>
@@ -65,7 +65,7 @@ function Footer() {
             src="https://d36g7qg6pk2cm7.cloudfront.net/assets/icons/like-b8b570f724101252e5c39d8bd66246607fb226e93e3ba17b0516209b20832345.png"
             alt="love"
           ></img>
-          by BRS Team
+          by Rohit's Team
           </h3>
       </div>
     </>
